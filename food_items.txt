@@ -1,0 +1,5 @@
+Burger,Juicy burger,80.0,true,false,false,true
+Pizza,Cheese pizza,200.0,true,false,false,true
+Noodles,tasty,150.0,true,false,true,true
+Shake,cold,100.0,true,true,false,false
+Honey chilli potato,potato,140.0,true,false,true,true
